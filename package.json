@@ -1,0 +1,19 @@
+{
+  "name": "first-twitter-bot",
+  "version": "1.0.0",
+  "description": "first twitter bot (for CMS.614)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kszeng/first-twitter-bot.git"
+  },
+  "author": "Kitty Zeng <kzeng@mit.edu>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kszeng/first-twitter-bot/issues"
+  },
+  "homepage": "https://github.com/kszeng/first-twitter-bot#readme"
+}
