@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/kszeng/first-twitter-bot/issues"
   },
-  "homepage": "https://github.com/kszeng/first-twitter-bot#readme"
+  "homepage": "https://github.com/kszeng/first-twitter-bot#readme",
+  "dependencies": {
+    "bluebird": "^3.7.2",
+    "dotenv": "^16.0.0",
+    "twitter": "^1.7.1"
+  }
 }
